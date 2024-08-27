@@ -1,0 +1,30 @@
+baseURL: https://iris.ic.unicamp.br/
+
+languageCode: pt-br
+
+title: Iris UNICAMP
+
+theme: hextra
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo_unicamp_flower.jpg
+      link: /
+      width: 40
+      height: 20
+  favicon: true
+
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3

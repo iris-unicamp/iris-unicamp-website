@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iris UNICAMP – Home</title>
+    <title>Iris UNICAMP – </title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Iris UNICAMP</description>
+    <description>Recent content on Iris UNICAMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 26 Aug 2024 22:13:01 -0300</lastBuildDate>

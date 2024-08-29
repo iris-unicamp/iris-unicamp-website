@@ -11,20 +11,29 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo_unicamp_flower.jpg
+      path: /images/rounded_logo_unicamp_flower.png
       link: /
       width: 40
       height: 20
-  favicon: true
+  favicon: /favicon.ico
 
 menu:
   main:
     - name: Home
       pageRef: /
       weight: 1
-    - name: Blog
-      pageRef: /blog
+    - name: Eventos
+      pageRef: /events
       weight: 2
+    - name: Cursos e Materiais
+      pageRef: /courses
+      weight: 3
+    # - name: Blog
+    #   pageRef: /
+    #   weight: 4
+    - name: Projetos
+      pageRef: /projects
+      weight: 4
     - name: About
       pageRef: /about
-      weight: 3
+      weight: 5
